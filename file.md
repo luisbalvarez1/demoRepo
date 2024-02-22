@@ -8,8 +8,8 @@ git add ./file.md
 git commit -m "added file.md"
 
 # make sure to add your username and email if asked
-git config --global user.email "luis.b.alvarez1@gmail.com"
-git config --global user.name  "Lou Alvarez"
+git config --global user.email "youremail@here.com"
+git config --global user.name  "Add your name here"
 ~/.gitconfig
 
 # make sure that the default branch for any repo is main instead of master
